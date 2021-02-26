@@ -692,8 +692,8 @@
     },
     "startupoverlay": {
         "policyText": " ",
-        "genericTitle": "The meeting needs to use your microphone and camera.",
-        "title": "{{app}} needs to use your microphone and camera."
+        "genericTitle": "A reunião precisa usar seu microfone e câmera.",
+        "title": "{{app}} precisa usar seu microfone e câmera."
     },
     "suspendedoverlay": {
         "rejoinKeyTitle": "Rejoin",
@@ -824,16 +824,16 @@
         "tr": "TR"
     },
     "userMedia": {
-        "androidGrantPermissions": "Select <b><i>Allow</i></b> when your browser asks for permissions.",
-        "chromeGrantPermissions": "Select <b><i>Allow</i></b> when your browser asks for permissions.",
-        "edgeGrantPermissions": "Select <b><i>Yes</i></b> when your browser asks for permissions.",
-        "electronGrantPermissions": "Trying to access your camera and microphone",
-        "firefoxGrantPermissions": "Select <b><i>Share Selected Device</i></b> when your browser asks for permissions.",
-        "iexplorerGrantPermissions": "Select <b><i>OK</i></b> when your browser asks for permissions.",
-        "nwjsGrantPermissions": "Please grant permissions to use your camera and microphone",
-        "operaGrantPermissions": "Select <b><i>Allow</i></b> when your browser asks for permissions.",
-        "react-nativeGrantPermissions": "Select <b><i>Allow</i></b> when your browser asks for permissions.",
-        "safariGrantPermissions": "Select <b><i>OK</i></b> when your browser asks for permissions."
+        "androidGrantPermissions": "Selecione <b><i>Permitir</i></b> quando seu navegador pedir permissão.",
+        "chromeGrantPermissions": "Selecione <b><i>Permitir</i></b> quando seu navegador pedir permissão.",
+        "edgeGrantPermissions": "Selecione <b><i>Sim</i></b> quando seu navegador pedir permissão.",
+        "electronGrantPermissions": "Tentando acessar sua câmera e microfone",
+        "firefoxGrantPermissions": "Selecione <b><i>Compartilhar dispositivos selecionados</i></b> quando seu navegador pedir permissão.",
+        "iexplorerGrantPermissions": "Selecione <b><i>OK</i></b> quando seu navegador pedir permissão.",
+        "nwjsGrantPermissions": "Por favor dê permissão para usar sua câmeta e seu microfone",
+        "operaGrantPermissions": "Selecione <b><i>Permitir</i></b> quando seu navegador pedir permissão.",
+        "react-nativeGrantPermissions": "Selecione <b><i>Permitir</i></b> quando seu navegador pedir permissão.",
+        "safariGrantPermissions": "Selecione <b><i>OK</i></b> quando seu navegador pedir permissão."
     },
     "videoSIPGW": {
         "busy": "We're working on freeing resources. Please try again in a few minutes.",
