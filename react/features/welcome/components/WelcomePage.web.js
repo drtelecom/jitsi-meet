@@ -216,7 +216,6 @@ class WelcomePage extends AbstractWelcomePage {
                                         id = 'enter_room_field'
                                         onChange = { this._onRoomChange }
                                         pattern = { ROOM_NAME_VALIDATE_PATTERN_STR }
-                                        placeholder = { this.state.roomPlaceholder }
                                         ref = { this._setRoomInputRef }
                                         title = { t('welcomepage.roomNameAllowedChars') }
                                         type = 'text'
@@ -349,26 +348,6 @@ class WelcomePage extends AbstractWelcomePage {
 
         return (<footer className = 'welcome-footer'>
             <div className = 'welcome-footer-centered'>
-                <div className = 'welcome-footer-padded'>
-                    <div className = 'welcome-footer-row-block welcome-footer--row-1'>
-                        <div className = 'welcome-footer-row-1-text'>{t('welcomepage.jitsiOnMobile')}</div>
-                        <a
-                            className = 'welcome-badge'
-                            href = { MOBILE_DOWNLOAD_LINK_IOS }>
-                            <img src = './images/app-store-badge.png' />
-                        </a>
-                        <a
-                            className = 'welcome-badge'
-                            href = { MOBILE_DOWNLOAD_LINK_ANDROID }>
-                            <img src = './images/google-play-badge.png' />
-                        </a>
-                        <a
-                            className = 'welcome-badge'
-                            href = { MOBILE_DOWNLOAD_LINK_F_DROID }>
-                            <img src = './images/f-droid-badge.png' />
-                        </a>
-                    </div>
-                </div>
             </div>
         </footer>);
     }
