@@ -47,7 +47,7 @@ var interfaceConfig = {
     DEFAULT_BACKGROUND: '#474747',
     DEFAULT_LOCAL_DISPLAY_NAME: 'Eu',
     DEFAULT_LOGO_URL: 'images/logo.png',
-    DEFAULT_REMOTE_DISPLAY_NAME: 'Fellow Jitster',
+    DEFAULT_REMOTE_DISPLAY_NAME: 'Convidado',
     DEFAULT_WELCOME_PAGE_LOGO_URL: 'images/logo.png',
 
     DISABLE_DOMINANT_SPEAKER_INDICATOR: false,
